@@ -1,4 +1,4 @@
-# Pandas-Testowanie
+# OOBT_Pandas
 ## Podział ról w zespole:
 - **Adam Dąbrowski:** Zarządzanie zespołem, repozytorium, pipelinem i przebiegiem prac zgodnie z ustalonym harmonogramem, przygotowanie 1 testu funkcjonalnego oraz 1 scenariusza testu akceptacyjnego
 - **Maciej Grzegorczyk:** Przygotowanie 1 testu funkcjonalnego, 1 testu wydajnościowego, 1 scenariusza testu akceptacyjnego oraz w razie potrzeby inne przydzielone zadania
