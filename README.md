@@ -15,9 +15,9 @@ Pandas to fundamentalne narzędzie do analizy i przetwarzania danych w języku P
 Projekt nie ma na celu stworzenia zaawansowanego systemu walidacyjnego, ale ma być rozsądny objętościowo i skoncentrowany na solidnych podstawach testowania i pracy w zespole.
 
 ## Zespół i podział ról
-- **Adam Dąbrowski:** Zarządzanie zespołem, repozytorium, pipelinem i przebiegiem prac zgodnie z ustalonym harmonogramem, przygotowanie 1 testu funkcjonalnego oraz 1 scenariusza testu akceptacyjnego.
-- **Maciej Grzegorczyk:** Przygotowanie 2 testów funkcjonalnych, 1 testu wydajnościowego, 1 scenariusza testu akceptacyjnego oraz w razie potrzeby inne przydzielone zadania.
-- **Magda Kaczorowska:** Przygotowanie 2 testów funkcjonalnych, 1 testu wydajnościowego, 1 scenariusza testu akceptacyjnego oraz w razie potrzeby inne przydzielone zadania.
+- **[Adam Dąbrowski](https://github.com/Pluciarz):** Zarządzanie zespołem, repozytorium, pipelinem i przebiegiem prac zgodnie z ustalonym harmonogramem, przygotowanie 1 testu funkcjonalnego oraz 1 scenariusza testu akceptacyjnego.
+- **[Maciej Grzegorczyk](https://github.com/ZMaciek):** Przygotowanie 2 testów funkcjonalnych, 1 testu wydajnościowego, 1 scenariusza testu akceptacyjnego oraz w razie potrzeby inne przydzielone zadania.
+- **[Magda Kaczorowska](https://github.com/misia4pysia):** Przygotowanie 2 testów funkcjonalnych, 1 testu wydajnościowego, 1 scenariusza testu akceptacyjnego oraz w razie potrzeby inne przydzielone zadania.
 
 ## Komunikacja
 - **Messanger**: Do bieżącego i szybkiego komunikowania się grupy.
